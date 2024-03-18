@@ -1,4 +1,4 @@
-Northrop Grumman Cyber Raspberry Py Competition 2020 1st Place Winner.
+Northrop Grumman Cyber Raspberry Pi Competition 2020 1st Place Winner.
 
 Our project was designed to sensor sensitive info using trained neural networks during live footage and imagery all while running on a raspberry Py.
 
